@@ -1,0 +1,15 @@
+/Users/hiravthakur/Projects/dr_eliza/dr_eliza/bin/Debug/net7.0/dr_eliza
+/Users/hiravthakur/Projects/dr_eliza/dr_eliza/bin/Debug/net7.0/dr_eliza.deps.json
+/Users/hiravthakur/Projects/dr_eliza/dr_eliza/bin/Debug/net7.0/dr_eliza.runtimeconfig.json
+/Users/hiravthakur/Projects/dr_eliza/dr_eliza/bin/Debug/net7.0/dr_eliza.dll
+/Users/hiravthakur/Projects/dr_eliza/dr_eliza/bin/Debug/net7.0/dr_eliza.pdb
+/Users/hiravthakur/Projects/dr_eliza/dr_eliza/obj/Debug/net7.0/dr_eliza.csproj.AssemblyReference.cache
+/Users/hiravthakur/Projects/dr_eliza/dr_eliza/obj/Debug/net7.0/dr_eliza.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hiravthakur/Projects/dr_eliza/dr_eliza/obj/Debug/net7.0/dr_eliza.AssemblyInfoInputs.cache
+/Users/hiravthakur/Projects/dr_eliza/dr_eliza/obj/Debug/net7.0/dr_eliza.AssemblyInfo.cs
+/Users/hiravthakur/Projects/dr_eliza/dr_eliza/obj/Debug/net7.0/dr_eliza.csproj.CoreCompileInputs.cache
+/Users/hiravthakur/Projects/dr_eliza/dr_eliza/obj/Debug/net7.0/dr_eliza.dll
+/Users/hiravthakur/Projects/dr_eliza/dr_eliza/obj/Debug/net7.0/refint/dr_eliza.dll
+/Users/hiravthakur/Projects/dr_eliza/dr_eliza/obj/Debug/net7.0/dr_eliza.pdb
+/Users/hiravthakur/Projects/dr_eliza/dr_eliza/obj/Debug/net7.0/dr_eliza.genruntimeconfig.cache
+/Users/hiravthakur/Projects/dr_eliza/dr_eliza/obj/Debug/net7.0/ref/dr_eliza.dll
